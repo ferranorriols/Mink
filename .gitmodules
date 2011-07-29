@@ -15,7 +15,7 @@
 	url = git://github.com/symfony/Finder
 [submodule "vendor/Symfony/Component/BrowserKit"]
 	path = vendor/Symfony/Component/BrowserKit
-	url = git://github.com/symfony/BrowserKit.git
+	url =  git://github.com/ferranorriols/BrowserKit.git
 [submodule "vendor/Symfony/Component/Process"]
 	path = vendor/Symfony/Component/Process
 	url = git://github.com/symfony/Process.git
